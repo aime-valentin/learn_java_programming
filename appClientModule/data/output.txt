@@ -1,0 +1,81 @@
+Portfolio  Owner                Manager              Fees($)    Commissions($)  Weighted Risk   Return($)  Total($)   
+====================================================================================================================
+GDFF003    Fidele, Aime         Gorden, Kajar        0.00       294.89          -0.0503         7863.72    79134.40   
+GJSRB53    Fidele, Aime         Wax, Budd            75.00      50.29           1.1179          4023.52    1183389.23 
+3636HDH    Fidele, Aime         alfred, karambi      150.00     92703.25        0.4018          7416259.63 16072174.78 
+DGEF442    Nick, Brown          Kamali, Foxin        0.00       201.50          0.3718          5373.27    10802.51   
+ERYJV46    Nick, Brown          Wax, Budd            150.00     38008.73        0.3994          3040698.34 6590156.00 
+DGHD3623   O'Dale, Meters       alfred, karambi      75.00      0.09            0.0000          7.31       300.87     
+                                                   ---------------------------------------------------------------------- 
+                                 Total               450.00     131258.75                       10474225.80 23935957.78 
+
+
+Portfolio Details
+========================================================================================================================================
+Portfolio 	 GDFF003 
+=================================================
+Owner:
+Fidele, Aime
+
+Assets
+Code                 Asset                          Return Rate (%)      Risk                 Annual Return ($)    Total Value($)       
+VALEN4               SparkGroup                     5.82                 -0.15                945.70               16240.40             
+NUID11               Mobile Money                   2.13                 0.00                 1066.21              50000.00             
+452BEAT              Tuyish Soft.                   45.38                -0.12                5851.81              12894.00             
+                                                   -------------------------------------------------------------------------- 
+                                                     Total               -0.0503              7863.72              79134.40             
+Portfolio 	 GJSRB53 
+=================================================
+Owner:
+Fidele, Aime
+
+Assets
+Code                 Asset                          Return Rate (%)      Risk                 Annual Return ($)    Total Value($)       
+GLDLOC               Diamonds                       0.34                 1.12                 4023.52              1183389.23           
+                                                   -------------------------------------------------------------------------- 
+                                                     Total               1.1179               4023.52              1183389.23           
+Portfolio 	 3636HDH 
+=================================================
+Owner:
+Fidele, Aime
+
+Assets
+Code                 Asset                          Return Rate (%)      Risk                 Annual Return ($)    Total Value($)       
+MOTO35               Motor Tyres                    46.14                0.40                 6810849.29           14760157.50          
+MOTO35               Motor Tyres                    46.14                0.40                 605410.34            1312017.28           
+                                                   -------------------------------------------------------------------------- 
+                                                     Total               0.4018               7416259.63           16072174.78          
+Portfolio 	 DGEF442 
+=================================================
+Owner:
+Nick, Brown
+Beneficary:
+Fidele, Aime
+Assets
+Code                 Asset                          Return Rate (%)      Risk                 Annual Return ($)    Total Value($)       
+MOTO35               Motor Tyres                    46.14                0.40                 4540.57              9840.11              
+321AA                Urwagwa                        86.52                0.07                 832.71               962.40               
+                                                   -------------------------------------------------------------------------- 
+                                                     Total               0.3718               5373.27              10802.51             
+Portfolio 	 ERYJV46 
+=================================================
+Owner:
+Nick, Brown
+Beneficary:
+Nday, Chris
+Assets
+Code                 Asset                          Return Rate (%)      Risk                 Annual Return ($)    Total Value($)       
+MOTO35               Motor Tyres                    46.14                0.40                 3027044.13           6560070.00           
+452BEAT              Tuyish Soft.                   45.38                -0.12                13654.21             30086.00             
+                                                   -------------------------------------------------------------------------- 
+                                                     Total               0.3994               3040698.34           6590156.00           
+Portfolio 	 DGHD3623 
+=================================================
+Owner:
+O'Dale, Meters
+
+Assets
+Code                 Asset                          Return Rate (%)      Risk                 Annual Return ($)    Total Value($)       
+IGIHOZO              Aime AFA                       2.43                 0.00                 7.31                 300.87               
+                                                   -------------------------------------------------------------------------- 
+                                                     Total               0.0000               7.31                 300.87               
